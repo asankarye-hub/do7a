@@ -1,0 +1,95 @@
+Note: this file is only the *interface* wording. The Badini Qur'an itself
+adhanNet:    'ezanê netêkî',         // Adhan net (online adhan)
+after:       'پشتی',             // After
+afterPrayer: 'dıwa nêvajî',          // After prayer
+altitude:    'ûfarte',               // Altitude
+before:      'بەری',             // Before
+both:        'سپێدە و ئێڤار',     // Morning and evening
+compass:     'kombîn',               // Compass
+convG:       'rojê miladî',          // A Gregorian date
+convH:       'rojê hicrî',           // A Hijri date
+days:        'ڕۆژ',              // days
+deedsT:      'karûbaranî rojê',      // Today's deeds
+dir: 'rtl',
+en:          'en',                   // English (language code)
+evening:     'ئێڤار',            // Evening
+facing:      'derê hilbijêre\'n vekûna sawê', // Turn this many degrees clockwise from north to face Makkah
+fastT:       'ڕۆژێن ڕۆژیێ',      // Days to fast
+fitrPpl:     'zakatê fitrê',         // Zakat al-Fitr (people)
+fitrRate:    'hêja zakatê fitrê',    // Zakat al-Fitr rate
+fitrT:       'rojê fitrê',           // Eid al-Fitr day
+footer:      'deman li ser computerê ya ên karûbarê keptin ên, na network, na hesab, na ketina pêk_hêya rashê', // Times are computed on this device from solar geometry. No network, no account, nothing leaves the page.
+hiLatT:      'êrtê ya dargirtin',    // High latitude
+highLat:     'êrtê ya dargirtin',    // High latitude
+labDayOf:    'rojê',                 // Day of
+labNetWorth: 'arzi netî',            // Net worth
+labNext2:    'بهێ',              // Next
+labNisab:    'nişâb',                // Nisab
+labNotDue:   'na ve hatû ye',        // Not due
+labPrev:     'پێشتر',            // Previous
+labToday2:   'ئەڤرۆ',            // Today
+labUntilRamadan: 'ta ramażanê',      // Until Ramadan
+labZakatDue: 'zakatê ve hate',       // Zakat due
+locating:    'dirêjî getin...',      // Finding you...
+location:    'جه',               // Location
+monthT:      'هەمی مەها',        // The whole month
+morning:     'سپێدە',            // Morning
+muteT:       'wijkê na çûya',        // Which prayers call
+nNames:      'nawan ê wê',           // His names
+nSalawat:    'salawat',              // Salawat
+nSeerah:     'sîra',                 // His life
+nSifat:      'sîfat',                // Who he was
+nWasiyya:    'wasîya',               // What he said
+nabiSub:     'Piambar Muhammed (s) — 570-632 M', // Born Makkah 570 · died Madinah 632 · may Allah send peace upon him
+nabiT:       'Muhemmed, piyamberê Îlahî', // Muhammad, messenger of Allah
+names:       'nawan ê navê basilîya Îlahî', // The ninety-nine names
+next:        'نڤێژا بهێ',         // Next prayer
+nextEvent:   'یا بهێ',           // Next (a marker, not a prayer)
+noFastT:     'rojanê na rozê',       // Days you must not fast
+notifAsk:    'berkêyê bunûşe bikeve', // Turn on prayer notifications
+notifOff:    'berkêyê bunûşe nalîstînî ye', // Notifications are blocked
+notifOn:     'berkêyê bunûşe hatû ye', // Notifications are on
+offReset:    'her ênbera bikeve',    // Clear all offsets
+offSet:      'nişan bikeve',         // Adjust offset
+offT:        'berê bê mosque',       // Match your mosque
+peace:       'ئاشتی',            // Peace
+prayer:      'نڤێژ',             // Prayer
+printT:      'binûse',               // Print this month
+qadaBtn:     'daxile qaza bikeve',   // Make up
+qadaMade:    'qaza kirî',            // Made up
+qadaNone:    'hela qaza na',         // No make up
+qadaT:       'qaza',                 // Make up
+qibla:       'قیبلە',            // Qibla
+quranFail:   'quranê nasûlî nayê',   // Quran failed to load
+quranSrc:    'kaynakê qur\'ani',      // Quran source
+ramTrackT:   'ramażanê — sî ronahî', // Ramadan — thirty days
+remembrance: 'ezkar',                // Remembrance
+reset:       'ژ نوڤە',           // Reset
+salBtn:      'yekê salat bikeve',    // Send one
+salT:        'salatê emro',          // Salawat today
+sources:     'kaynakên',             // Sources
+standard:    'hevparêzî — şêwe ya gerra wê ye', // Standard — shadow equals object
+statPer:     'çawa kevtî ye te herêva', // How you keep each one
+statT:       'sî ronahîyekê û síh',  // The last thirty days
+sunDown:     'ڕۆژ ئاڤا بوویە',     // The sun is below the horizon
+sunUp:       'ڕۆژ هلاتیە',        // The sun is up
+surahT:      'hek û çar çenden û çarê û hezdah', // All one hundred and fourteen
+tabCal:      'rojnamevrê',           // Calendar
+tabConv:     'gôrîn',                // Convert
+tabZakat:    'zakat',                // Zakat
+times:       'دەمێن نڤێژان',      // Prayer times
+today:       'ئەڤرۆ',            // Today
+tracker:     'tenekeytê emro',       // Prayers kept
+upT:         'hevparîn',             // Update
+upToday:     'ئەڤرۆ',            // today
+upTomorrow:  'سبەکێ',            // tomorrow
+useMine:     'şopa minê bikeve',     // Use my location
+voiceT:      'engê ezanê',           // The adhan voice
+zCash:       'parê û pêdaştkirîn',   // Cash & savings
+zDebt:       'borcên te',            // Debts you owe
+zGold:       'zîr',                  // Gold (grams)
+zGoods:      'kalê bazirganî',       // Business goods
+zGp:         'nerxê zîr / geram',    // Gold price / gram
+zRecv:       'borcê li xerabûnê',    // Owed to you
+zSilver:     'zîv',                  // Silver (grams)
+zSp:         'nerxê zîv / geram',    // Silver price / gram

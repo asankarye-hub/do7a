@@ -1,0 +1,105 @@
+*/
+/* Not yet translated — these fall back to Soranî, then English.
+Add them here as you like
+adhanNet
+after
+afterPrayer
+altitude
+altitude, dayLen, locating, locFail, compass, compassOn, compassNo,
+before
+both
+compass
+convG
+convH
+days
+deedsT
+dir
+en
+evening
+facing
+fastT
+fitrPpl
+fitrRate
+fitrT
+footer
+footer, sources, convG, convH, qadaT, qadaBtn, zGold, zSilver, zCash,
+hiLatT
+highLat
+highLat, hijriAdj, clock, useMine, pick, bearing, toKaaba, facing,
+labDayOf
+labNetWorth
+labNetWorth, labNisab, labZakatDue, fitrT, voiceT, muteT, offT,
+labNext2
+labNisab
+labNotDue
+labPrev
+labToday2
+labUntilRamadan
+labZakatDue
+locating
+location
+monthT
+morning
+muteT
+nNames
+nSalawat
+nSeerah
+nSeerah, nSalawat, nNames, nWasiyya, nabiT, salT, salBtn
+nSifat
+nWasiyya
+nabiSub
+nabiT
+names
+names, duas, sunnaT, note, afterPrayer, method, asr, standard, hanafi,
+next
+nextEvent
+noFastT
+notifAsk
+notifOff
+notifOn
+offReset
+offSet
+offT
+peace
+prayer
+printT
+printT, statT, upT, deedsT, noFastT, ramTrackT, surahT, nSifat,
+qadaBtn
+qadaMade
+qadaNone
+qadaT
+qibla
+quranFail
+quranSrc
+ramTrackT
+remembrance
+reset
+salBtn
+salT
+sources
+standard
+statPer
+statT
+sunDown
+sunUp
+surahT
+tabCal
+tabConv
+tabZakat
+times
+today
+tracker
+upT
+upToday
+upTomorrow
+useMine
+voiceT
+worship, remembrance, library, settings, tracker, streak, counter,
+zCash
+zDebt
+zGold
+zGoods
+zGp
+zRecv
+zSilver
+zSp
